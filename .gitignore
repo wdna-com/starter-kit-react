@@ -1,0 +1,11 @@
+/node_modules
+/.idea
+/.vagrant
+npm-debug.log
+yarn-error.log
+/.project
+/dist
+*.zip
+
+package-lock.json
+.vscode
